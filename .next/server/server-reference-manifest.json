@@ -1,0 +1,38 @@
+{
+  "node": {
+    "22cc3663b19816050f75986c35a0d0e8149b81d5": {
+      "workers": {
+        "app/register/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CSoftyPy%201%5C%5CDesktop%5C%5Cprojects%5C%5Cnextjs-auth%5C%5Cnextjs-authentication-starter-pack-main%5C%5Csrc%5C%5Cutils%5C%5Cactions%5C%5Cregister.tsx%22%2C%5B%22%24%24ACTION_0%22%2C%22registerUser%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/register/page": "action-browser"
+      }
+    },
+    "61f887da93a9ca5137e9aa76689179f9f7e5f883": {
+      "workers": {
+        "app/register/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CSoftyPy%201%5C%5CDesktop%5C%5Cprojects%5C%5Cnextjs-auth%5C%5Cnextjs-authentication-starter-pack-main%5C%5Csrc%5C%5Cutils%5C%5Cactions%5C%5Cregister.tsx%22%2C%5B%22%24%24ACTION_0%22%2C%22registerUser%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/register/page": "action-browser"
+      }
+    },
+    "121a7f2030a9bf8dc9b00790b53ff9799ddad6eb": {
+      "workers": {
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CSoftyPy%201%5C%5CDesktop%5C%5Cprojects%5C%5Cnextjs-auth%5C%5Cnextjs-authentication-starter-pack-main%5C%5Csrc%5C%5Cutils%5C%5Cactions%5C%5CloginUser.tsx%22%2C%5B%22%24%24ACTION_0%22%2C%22loginUser%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/login/page": "action-browser"
+      }
+    },
+    "d9668df5c7923bf2e0b260e05b58570d32d57a33": {
+      "workers": {
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CSoftyPy%201%5C%5CDesktop%5C%5Cprojects%5C%5Cnextjs-auth%5C%5Cnextjs-authentication-starter-pack-main%5C%5Csrc%5C%5Cutils%5C%5Cactions%5C%5CloginUser.tsx%22%2C%5B%22%24%24ACTION_0%22%2C%22loginUser%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/login/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "wwW/2LzvrmeWAv3m9k34LfEzLZUnLJE5k3i2ezH9b4c="
+}
